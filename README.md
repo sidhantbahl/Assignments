@@ -1,2 +1,2 @@
 # Assignments
-Antra work
+Antra work for the first two weeks
